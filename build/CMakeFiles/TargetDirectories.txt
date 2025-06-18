@@ -1,0 +1,3 @@
+C:/Users/Safet/Desktop/paralelno/build/CMakeFiles/paralelno.dir
+C:/Users/Safet/Desktop/paralelno/build/CMakeFiles/edit_cache.dir
+C:/Users/Safet/Desktop/paralelno/build/CMakeFiles/rebuild_cache.dir
